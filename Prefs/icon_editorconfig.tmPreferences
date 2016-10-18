@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>scope</key>
-    <string>ini.editorconfig</string>
+    <string>source.ini.editorconfig</string>
     <key>settings</key>
     <dict>
         <key>icon</key>
