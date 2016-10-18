@@ -6,6 +6,12 @@ Afterglow is a minimal dark Theme for Sublime Text 2 and 3. Also it is a syntax 
 
 **Special thanks** to Max Riveiro [@kavu](https://github.com/kavu) for add a lot of icons for sidebar to this repository.
 
+## Design & Colors
+
+#### Afterglow spacegray
+
+![Afterglow-spacegray](Screenshots/Afterglow-spacegray.png)
+
 ## Install
 
 Locate your Sublime Text Packages directory by using the menu item Preferences -> Browse Packages....
@@ -28,4 +34,8 @@ Then add the following code settings, depending on the theme you choose. (After 
     "color_scheme": "Packages/Theme - Afterglow/Afterglow-itg.tmTheme"
 }
 ```
+
+## Warning
+
+Some settings of original theme [Afterglow](https://github.com/YabataDesign/afterglow-theme) may be broken.
 
