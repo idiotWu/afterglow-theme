@@ -8,15 +8,16 @@
 	<array>
 		<string>.git</string>
 		<string>.gitignore</string>
+		<string>.gitkeep</string>
 		<string>.gitconfig</string>
 		<string>.gitblame</string>
 		<string>.gitcommit</string>
 		<string>.gitgraph</string>
 		<string>.gitattributes</string>
+		<string>.gitmodules</string>
 		<string>.git-blame</string>
 		<string>.git-commit</string>
 		<string>.git-graph</string>
-		<string>.gitkeep</string>
 	</array>
 	<key>patterns</key>
 	<array>
@@ -26,6 +27,6 @@
 		</dict>
 	</array>
 	<key>scopeName</key>
-	<string>source.shell, source.git</string>
+	<string>source.git</string>
 </dict>
 </plist>
