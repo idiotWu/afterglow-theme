@@ -19,7 +19,7 @@ Locate your Sublime Text Packages directory by using the menu item Preferences -
 Then, clone the repository using this command:
 
 ```
-git clone https://github.com/Yabatadesign/afterglow-theme/ "Theme - Afterglow"
+git clone https://github.com/idiotWu/afterglow-theme/ "Theme - Afterglow"
 ```
 
 ## Activating the Theme
