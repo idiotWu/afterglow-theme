@@ -1122,6 +1122,69 @@
 				<string>#f3a056</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>scope</key>
+			<string>region.redish</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#EC3533</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>region.orangish</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#f3a056</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>region.yellowish</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#f0da5e</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>region.greenish</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#a7e450</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>region.bluish</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#3BC0F0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>region.purplish</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#967EFB</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>region.pinkish</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#f35656</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>E3C3DC58-813A-4F26-B591-C631C7B87A75</string>
